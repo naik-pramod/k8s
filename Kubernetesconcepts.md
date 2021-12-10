@@ -2,4 +2,4 @@
 
 
 
- ![arch](/images/arch.PNG "arch")
+ ![arch](/images/arch.png "arch")
